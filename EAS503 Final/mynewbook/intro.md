@@ -43,3 +43,4 @@ Bachelor of Science: Computer Science (Minor in Mathematics), SUNY Oswego (GPA: 
 - **[Docker](https://hub.docker.com/repository/docker/jiunkim27/eas503/general)**
 
 ## Recording
+- **[Recording](https://buffalo.box.com/s/d1hxzoan6htug9pfbk1cq24kxzfkfso6)**
