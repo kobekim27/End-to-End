@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+chapters:
+  - file: income_prediction/income_prediction
+  - file: income_prediction/model_evaluation
+  - file: income_prediction/api
+  - file: income_prediction/streamlit_app

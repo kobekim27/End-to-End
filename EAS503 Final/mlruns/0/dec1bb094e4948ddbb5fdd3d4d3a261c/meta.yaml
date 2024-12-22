@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pogoz/EAS503%20Final/mlruns/0/dec1bb094e4948ddbb5fdd3d4d3a261c/artifacts
+end_time: 1734721616620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dec1bb094e4948ddbb5fdd3d4d3a261c
+run_name: LogisticRegression
+run_uuid: dec1bb094e4948ddbb5fdd3d4d3a261c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734721616567
+status: 4
+tags: []
+user_id: pogoz
